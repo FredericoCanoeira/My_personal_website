@@ -185,16 +185,17 @@ header img{
     width: 50px;
 }
 
-.row-3 .boxrow3{
+.boxrow3{
     /* background-color: rgb(244, 248, 7); */
     margin-top: -50px;
+    margin-left: 0;
 
 }
 
 .box2-row3{
     background-color: rgb(159, 159, 159);
     background-color: #9f9fc0;
-    margin-left: 0;
+    /* margin-left: 0; */
 }
 
 .box3-row3{
@@ -204,17 +205,17 @@ header img{
 
 .box4-row3{
     background-color: rgb(60, 37, 55);
-    margin-left: 0;
+    /* margin-left: 0; */
 }
 
 .box5-row3{
     background-color: rgb(28, 92, 1);
-    margin-left: 0;
+    /* margin-left: 0; */
 }
 
 .box6-row3{
     background-color: rgb(159, 159, 159);
-    margin-left: 0;
+    /* margin-left: 0; */
 }
 
 .box7-row3{
@@ -225,15 +226,65 @@ header img{
     margin-top: -100px;
 }
 
+/* Row 4 */
+.row-4{
+    /* background-color: blue; */
+    display: flex;
+    margin-left: 250px;
+    /* margin-bottom: 50px; */
+}
+
+.boxrow4{
+    margin-left: 0;
+}
+
+.box1-row4{
+    background-color: #64a764;
+}
+
+.box2-row4{
+    background-color: bisque;
+}
+
+.box3-row4{
+    background-color: rgb(239, 17, 106);
+}
+
+
+.bx1{
+    background-color: #000023;
+    width: 50px;
+    height: 50px;
+    color: aliceblue;
+}
+
+.bx2{
+    background-color: rgb(43, 226, 55);
+    width: 50x;
+    height: 50px;
+    /* margin-left: 10; */
+}
+
+.bx3{
+    background-color: rgb(43, 226, 55);
+    width: 50px;
+    height: 50px;
+    margin-left: 0;
+    /* margin-top: -50px; */
+}
+
+
 
 .social-network-icon{
     /* height: 50px;
     background-color: blanchedalmond; */
-    text-align: center;
+    text-align: end;
+    margin-top: -30px;
+    margin-right: 30px;
 }
 
 img.icon{
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
 }
 
